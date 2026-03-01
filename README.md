@@ -16,7 +16,7 @@ I am a **Backend Developer** in the making, currently mastering the art of build
 
 - **Backend:** ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP) (OOP) &nbsp; | &nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel) (In Progress)
 
-- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) (ES6+) &nbsp; | &nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp; | &nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3) &nbsp; | &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) (ES6+) (In Progress) &nbsp; | &nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) &nbsp; | &nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3) &nbsp; | &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 - **Other Languages:** ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
